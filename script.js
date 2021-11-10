@@ -37,7 +37,7 @@ let beats = {
         button: new Button("#FF00FF", 71)
     },
     "72": {
-        beat: new Beat("./assets/PREL Musical 57.mp3"),
+        beat: new Beat("./assets/Groove 7.mp3"),
         button: new Button("#FF00FF", 72)
     },
     "74": {
